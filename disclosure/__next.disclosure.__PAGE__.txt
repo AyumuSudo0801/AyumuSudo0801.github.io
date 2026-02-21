@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"buildId":"Vl7Tg90XobRceqI4I1Oss","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"rounded-2xl border border-neutral-200 bg-white p-8","children":[["$","h1",null,{"className":"text-2xl font-bold","children":"広告開示（アフィリエイト）"}],["$","p",null,{"className":"mt-4 text-sm leading-7 text-neutral-800","children":"当サイトは、アフィリエイトプログラムを利用して教育関連サービスを紹介しています。リンク経由で申込が行われると、運営者に報酬が発生する場合があります。"}],["$","p",null,{"className":"mt-4 text-sm leading-7 text-neutral-800","children":"ただし、掲載順位や評価は報酬有無だけで決定せず、条件の明確さ・比較軸の透明性・読者にとっての実用性を基準に作成しています。"}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
+4:null

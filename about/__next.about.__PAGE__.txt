@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"buildId":"Vl7Tg90XobRceqI4I1Oss","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"rounded-2xl border border-neutral-200 bg-white p-8","children":[["$","h1",null,{"className":"text-2xl font-bold","children":"運営方針"}],["$","ul",null,{"className":"mt-4 list-disc space-y-2 pl-5 text-sm leading-7 text-neutral-800","children":[["$","li",null,{"children":"一次情報（公式条件・申込要件）を優先し、比較条件を明示します。"}],["$","li",null,{"children":"誇大表現を避け、メリット/デメリットの両面を記載します。"}],["$","li",null,{"children":"教育領域のYMYL配慮として、断定表現を避け個人差を明記します。"}]]}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
+4:null
