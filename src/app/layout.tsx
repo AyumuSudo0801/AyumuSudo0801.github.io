@@ -15,9 +15,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="ja">
-      <body className="bg-neutral-50 text-neutral-900 antialiased">
+      <body className="bg-slate-50 text-slate-900 antialiased">
         <SiteHeader />
-        <main className="mx-auto max-w-5xl px-4 py-8">{children}</main>
+        <main className="mx-auto w-full max-w-6xl px-4 py-8 md:py-10">{children}</main>
         <SiteFooter />
       </body>
     </html>
