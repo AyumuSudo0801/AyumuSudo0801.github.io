@@ -1,0 +1,15 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="420" rx="20" fill="#F9FAFB"/>
+  <g fill="#111827" font-family="Arial, sans-serif" font-size="22" font-weight="700">
+    <text x="70" y="90">1. 状態確認</text><text x="320" y="90">2. 付属品確認</text><text x="590" y="90">3. 相見積もり</text><text x="860" y="90">4. 条件確認</text>
+  </g>
+  <g>
+    <rect x="55" y="120" width="200" height="180" rx="14" fill="#E5E7EB"/>
+    <rect x="325" y="120" width="200" height="180" rx="14" fill="#E5E7EB"/>
+    <rect x="595" y="120" width="200" height="180" rx="14" fill="#E5E7EB"/>
+    <rect x="865" y="120" width="200" height="180" rx="14" fill="#E5E7EB"/>
+    <path d="M270 210H305" stroke="#374151" stroke-width="6" stroke-linecap="round"/>
+    <path d="M540 210H575" stroke="#374151" stroke-width="6" stroke-linecap="round"/>
+    <path d="M810 210H845" stroke="#374151" stroke-width="6" stroke-linecap="round"/>
+  </g>
+</svg>

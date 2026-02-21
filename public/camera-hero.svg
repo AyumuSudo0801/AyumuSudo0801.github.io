@@ -1,0 +1,11 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#F3F4F6"/>
+  <rect x="80" y="90" width="1040" height="450" rx="24" fill="#111827"/>
+  <rect x="170" y="210" width="860" height="240" rx="28" fill="#1F2937"/>
+  <circle cx="600" cy="330" r="105" fill="#E5E7EB"/>
+  <circle cx="600" cy="330" r="72" fill="#9CA3AF"/>
+  <circle cx="600" cy="330" r="36" fill="#374151"/>
+  <rect x="220" y="165" width="170" height="35" rx="10" fill="#6B7280"/>
+  <rect x="880" y="165" width="70" height="24" rx="8" fill="#EF4444"/>
+  <text x="120" y="575" fill="#111827" font-family="Arial, sans-serif" font-size="34" font-weight="700">Camera Buyback Research Desk</text>
+</svg>
